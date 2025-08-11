@@ -1,4 +1,4 @@
-// pages/_app.js
+// pages/index.js
 import { ClerkProvider } from "@clerk/nextjs";
 import "../styles/globals.css";
 
