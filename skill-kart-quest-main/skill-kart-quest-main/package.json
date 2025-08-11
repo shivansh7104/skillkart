@@ -7,5 +7,6 @@
   },
   "scripts": {
     "dev": "vite"
-  }
+  },
+  "type": "module"
 }
